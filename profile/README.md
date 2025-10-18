@@ -4,7 +4,7 @@
 - [Refined](https://github.com/loliblogs/Refined): 新 Astro 博客主题 & 博客内容
 - [discussion](https://github.com/loliblogs/discussion): 由 Github discussions 驱动的博客讨论区
 - [loliblogs.github.io](https://github.com/loliblogs/loliblogs.github.io)：Github 托管的 Pages 部分，注意主站使用独立的部署源，不是这个
-- [loliblogs](https://github.com/loliblogs/loliblogs)：本项目
+- [.github](https://github.com/loliblogs/.github)：本页面部署地
 
 ## Self::Location
 主站（Powered by Workers）：[https://blog.lolifamily.js.org](https://blog.lolifamily.js.org)
